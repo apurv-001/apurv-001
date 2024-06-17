@@ -1,7 +1,8 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fdata-science-wallpaper&psig=AOvVaw2TKCxypeOTM3Duw92gIKp1&ust=1718735643703000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCMsrCj44YDFQAAAAAdAAAAABAI)
+<img src="https://github.com/ElizaLo/Data-Science/blob/master/img/Banner_Data_Science.png" width="900" height="100">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FElizaLo%2FData-Science&count_bg=%23090268&title_bg=%23B5B5BC&icon=datacamp.svg&icon_color=%23E7E7E7&title=Repository+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 <h1 align="center">Hi 👋, I'm Apurv</h1>
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
-<img align="right" alt="Coding" width="400 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.velvetech.com%2Fblog%2Fartificial-intelligence-healthcare%2F&psig=AOvVaw1OeVl1qRlnSPT0UOcolE6N&ust=1718732736545000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCz0NSY44YDFQAAAAAdAAAAABAE"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apurv-001&label=Profile%20views&color=0e75b6&style=flat" alt="apurv-001" /> </p>
 

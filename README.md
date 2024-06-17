@@ -1,3 +1,4 @@
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fdata-science-wallpaper&psig=AOvVaw2TKCxypeOTM3Duw92gIKp1&ust=1718735643703000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCMsrCj44YDFQAAAAAdAAAAABAI)
 <h1 align="center">Hi 👋, I'm Apurv</h1>
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400 src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.velvetech.com%2Fblog%2Fartificial-intelligence-healthcare%2F&psig=AOvVaw1OeVl1qRlnSPT0UOcolE6N&ust=1718732736545000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCz0NSY44YDFQAAAAAdAAAAABAE"
